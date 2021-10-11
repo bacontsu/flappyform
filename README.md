@@ -1,4 +1,4 @@
-# flappyform
+# FlappyForm
 FlappyBird game remaked using WinForms as base, using arcade-style physics (somewhat janky)
 
 ## Procedurally Generated Pipes
