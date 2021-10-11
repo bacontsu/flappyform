@@ -63,9 +63,9 @@ namespace FlappybirdWinForms.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap toppng_com_flappy_bird_sprite_315x223 {
+        internal static System.Drawing.Bitmap sprite1 {
             get {
-                object obj = ResourceManager.GetObject("toppng.com-flappy-bird-sprite-315x223", resourceCulture);
+                object obj = ResourceManager.GetObject("sprite1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
